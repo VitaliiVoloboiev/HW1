@@ -7,3 +7,4 @@ class Greeter
   end
 end
 
+-I am strong
