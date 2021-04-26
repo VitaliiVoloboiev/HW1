@@ -8,3 +8,4 @@ class Greeter
 end
 
 -I am strong
+-I will do this even with cost of my fking life
